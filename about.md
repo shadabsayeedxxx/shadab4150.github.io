@@ -1,4 +1,12 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+## Myself shadab sayeed.
+
+![shadab](https://i.ibb.co/XyyMLcX/shadab-pic.jpg)
+
+I am a final year undergraduate student pursuing Bachelor of Technology in "Information Technology". 
+Skilled in Design and Analysis of Algorithms, Data Analysis, Data Visualization and Machine Learning. 
+
+* Here is my linkedin [**profile**](https://www.linkedin.com/in/shadab-sayeed/)
+
 
