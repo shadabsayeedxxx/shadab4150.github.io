@@ -6,6 +6,5 @@
 
 ### Today's Quote:
 
-* "The future depends on some graduate student who is deeply suspicious of everything I have said." 
-*  **Geoffrey Hinton** (godfather of Deep Learning)
+![kd](https://i.ibb.co/92QYz63/dsb.jpg)
 
