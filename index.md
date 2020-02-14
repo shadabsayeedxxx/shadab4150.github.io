@@ -1,6 +1,6 @@
 # Hello! and welcome to this blog.
 
-![welcome](https://i.ibb.co/txtnVy7/shadb.jpg)
+![welcome](http://www.global-engage.com/wp-content/uploads/2018/01/Deep-Learning-blog.png)
 
 ## This Blog contains information about my projects how they were done and the source code.
 
