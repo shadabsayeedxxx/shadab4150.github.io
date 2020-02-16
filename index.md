@@ -4,7 +4,7 @@
 
 * **This Blog contains information about my projects how they were done and the source code.**
 
-#### Today's Quote:
+#### **Today's Quote:**
 
 ![kd](https://i.ibb.co/92QYz63/dsb.jpg)
 
