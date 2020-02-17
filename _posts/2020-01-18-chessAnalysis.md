@@ -1,4 +1,5 @@
-# Analysis of chess dataset obtained from lichess website.
+# Analysis of chess dataset obtained from lichess website and predicting **wins** and **openings.**
+
 ![kd](https://images.chesscomfiles.com/uploads/v1/article/17623.87bb05cd.668x375o.47d81802f1eb@2x.jpeg)
 
 
