@@ -3,7 +3,7 @@
 ## Myself shadab sayeed.
 
 
-<img src="https://i.ibb.co/JCscwsK/imageedit-1-9987689091.png">
+<center><img src="https://i.ibb.co/JCscwsK/imageedit-1-9987689091.png" width="400" height="600"></center>
 
 I am a final year undergraduate student pursuing Bachelor of Technology in "Information Technology". 
 Skilled in Design and Analysis of Algorithms, Data Analysis, Data Visualization and Machine Learning. 
