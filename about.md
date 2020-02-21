@@ -1,4 +1,5 @@
-# About
+ <center><h1>About</h1></center>
+
 
 <center><h2>Myself shadab sayeed.</h2></center>
 
